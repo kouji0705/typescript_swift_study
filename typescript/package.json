@@ -1,0 +1,13 @@
+{
+  "name": "socket-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/server.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.18.8",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
